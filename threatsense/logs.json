@@ -1,0 +1,802 @@
+[
+    {
+        "timestamp": "2025-04-03 08:36:25",
+        "ip_source": "192.168.1.20",
+        "ip_dest": "192.168.1.34",
+        "packets": 1299,
+        "attempts": 1,
+        "latency": 100
+    },
+    {
+        "timestamp": "2025-04-03 08:36:26",
+        "ip_source": "192.168.1.10",
+        "ip_dest": "192.168.1.19",
+        "packets": 942,
+        "attempts": 11,
+        "latency": 36
+    },
+    {
+        "timestamp": "2025-04-03 08:36:27",
+        "ip_source": "192.168.1.10",
+        "ip_dest": "192.168.1.122",
+        "packets": 664,
+        "attempts": 15,
+        "latency": 38
+    },
+    {
+        "timestamp": "2025-04-03 08:36:28",
+        "ip_source": "192.168.1.20",
+        "ip_dest": "192.168.1.223",
+        "packets": 1400,
+        "attempts": 1,
+        "latency": 16
+    },
+    {
+        "timestamp": "2025-04-03 08:36:29",
+        "ip_source": "192.168.1.30",
+        "ip_dest": "192.168.1.3",
+        "packets": 1216,
+        "attempts": 12,
+        "latency": 63
+    },
+    {
+        "timestamp": "2025-04-03 08:36:30",
+        "ip_source": "192.168.1.30",
+        "ip_dest": "192.168.1.149",
+        "packets": 1291,
+        "attempts": 5,
+        "latency": 81
+    },
+    {
+        "timestamp": "2025-04-03 08:36:31",
+        "ip_source": "192.168.1.20",
+        "ip_dest": "192.168.1.14",
+        "packets": 495,
+        "attempts": 3,
+        "latency": 73
+    },
+    {
+        "timestamp": "2025-04-03 08:36:32",
+        "ip_source": "192.168.1.40",
+        "ip_dest": "192.168.1.97",
+        "packets": 348,
+        "attempts": 10,
+        "latency": 97
+    },
+    {
+        "timestamp": "2025-04-03 08:36:33",
+        "ip_source": "192.168.1.30",
+        "ip_dest": "192.168.1.218",
+        "packets": 97,
+        "attempts": 8,
+        "latency": 96
+    },
+    {
+        "timestamp": "2025-04-03 08:36:34",
+        "ip_source": "192.168.1.20",
+        "ip_dest": "192.168.1.1",
+        "packets": 456,
+        "attempts": 1,
+        "latency": 55
+    },
+    {
+        "timestamp": "2025-04-03 08:36:35",
+        "ip_source": "192.168.1.10",
+        "ip_dest": "192.168.1.8",
+        "packets": 693,
+        "attempts": 15,
+        "latency": 33
+    },
+    {
+        "timestamp": "2025-04-03 08:36:36",
+        "ip_source": "192.168.1.20",
+        "ip_dest": "192.168.1.32",
+        "packets": 1871,
+        "attempts": 6,
+        "latency": 28
+    },
+    {
+        "timestamp": "2025-04-03 08:36:37",
+        "ip_source": "192.168.1.40",
+        "ip_dest": "192.168.1.105",
+        "packets": 1480,
+        "attempts": 10,
+        "latency": 84
+    },
+    {
+        "timestamp": "2025-04-03 08:36:38",
+        "ip_source": "192.168.1.30",
+        "ip_dest": "192.168.1.214",
+        "packets": 1516,
+        "attempts": 6,
+        "latency": 26
+    },
+    {
+        "timestamp": "2025-04-03 08:36:39",
+        "ip_source": "192.168.1.30",
+        "ip_dest": "192.168.1.116",
+        "packets": 525,
+        "attempts": 0,
+        "latency": 55
+    },
+    {
+        "timestamp": "2025-04-03 08:36:40",
+        "ip_source": "192.168.1.40",
+        "ip_dest": "192.168.1.107",
+        "packets": 1737,
+        "attempts": 15,
+        "latency": 84
+    },
+    {
+        "timestamp": "2025-04-03 08:36:41",
+        "ip_source": "192.168.1.30",
+        "ip_dest": "192.168.1.119",
+        "packets": 328,
+        "attempts": 8,
+        "latency": 11
+    },
+    {
+        "timestamp": "2025-04-03 08:36:42",
+        "ip_source": "192.168.1.30",
+        "ip_dest": "192.168.1.52",
+        "packets": 1526,
+        "attempts": 2,
+        "latency": 82
+    },
+    {
+        "timestamp": "2025-04-03 08:36:43",
+        "ip_source": "192.168.1.40",
+        "ip_dest": "192.168.1.167",
+        "packets": 992,
+        "attempts": 11,
+        "latency": 55
+    },
+    {
+        "timestamp": "2025-04-03 08:36:44",
+        "ip_source": "192.168.1.10",
+        "ip_dest": "192.168.1.72",
+        "packets": 1759,
+        "attempts": 8,
+        "latency": 50
+    },
+    {
+        "timestamp": "2025-04-03 08:36:45",
+        "ip_source": "192.168.1.20",
+        "ip_dest": "192.168.1.101",
+        "packets": 1155,
+        "attempts": 4,
+        "latency": 31
+    },
+    {
+        "timestamp": "2025-04-03 08:36:46",
+        "ip_source": "192.168.1.10",
+        "ip_dest": "192.168.1.100",
+        "packets": 1064,
+        "attempts": 13,
+        "latency": 42
+    },
+    {
+        "timestamp": "2025-04-03 08:36:47",
+        "ip_source": "192.168.1.30",
+        "ip_dest": "192.168.1.21",
+        "packets": 71,
+        "attempts": 13,
+        "latency": 58
+    },
+    {
+        "timestamp": "2025-04-03 08:36:48",
+        "ip_source": "192.168.1.30",
+        "ip_dest": "192.168.1.102",
+        "packets": 1652,
+        "attempts": 4,
+        "latency": 28
+    },
+    {
+        "timestamp": "2025-04-03 08:36:49",
+        "ip_source": "192.168.1.10",
+        "ip_dest": "192.168.1.240",
+        "packets": 1061,
+        "attempts": 5,
+        "latency": 58
+    },
+    {
+        "timestamp": "2025-04-03 08:36:50",
+        "ip_source": "192.168.1.20",
+        "ip_dest": "192.168.1.197",
+        "packets": 1875,
+        "attempts": 9,
+        "latency": 15
+    },
+    {
+        "timestamp": "2025-04-03 08:36:51",
+        "ip_source": "192.168.1.20",
+        "ip_dest": "192.168.1.90",
+        "packets": 1378,
+        "attempts": 10,
+        "latency": 60
+    },
+    {
+        "timestamp": "2025-04-03 08:36:52",
+        "ip_source": "192.168.1.30",
+        "ip_dest": "192.168.1.196",
+        "packets": 548,
+        "attempts": 1,
+        "latency": 64
+    },
+    {
+        "timestamp": "2025-04-03 08:36:53",
+        "ip_source": "192.168.1.10",
+        "ip_dest": "192.168.1.183",
+        "packets": 821,
+        "attempts": 4,
+        "latency": 25
+    },
+    {
+        "timestamp": "2025-04-03 08:36:54",
+        "ip_source": "192.168.1.20",
+        "ip_dest": "192.168.1.233",
+        "packets": 70,
+        "attempts": 12,
+        "latency": 32
+    },
+    {
+        "timestamp": "2025-04-03 08:36:55",
+        "ip_source": "192.168.1.40",
+        "ip_dest": "192.168.1.32",
+        "packets": 1350,
+        "attempts": 7,
+        "latency": 87
+    },
+    {
+        "timestamp": "2025-04-03 08:36:56",
+        "ip_source": "192.168.1.20",
+        "ip_dest": "192.168.1.166",
+        "packets": 127,
+        "attempts": 4,
+        "latency": 21
+    },
+    {
+        "timestamp": "2025-04-03 08:36:57",
+        "ip_source": "192.168.1.30",
+        "ip_dest": "192.168.1.159",
+        "packets": 1549,
+        "attempts": 15,
+        "latency": 28
+    },
+    {
+        "timestamp": "2025-04-03 08:36:58",
+        "ip_source": "192.168.1.30",
+        "ip_dest": "192.168.1.188",
+        "packets": 599,
+        "attempts": 8,
+        "latency": 10
+    },
+    {
+        "timestamp": "2025-04-03 08:36:59",
+        "ip_source": "192.168.1.40",
+        "ip_dest": "192.168.1.238",
+        "packets": 1357,
+        "attempts": 1,
+        "latency": 99
+    },
+    {
+        "timestamp": "2025-04-03 08:37:00",
+        "ip_source": "192.168.1.30",
+        "ip_dest": "192.168.1.112",
+        "packets": 695,
+        "attempts": 5,
+        "latency": 24
+    },
+    {
+        "timestamp": "2025-04-03 08:37:01",
+        "ip_source": "192.168.1.20",
+        "ip_dest": "192.168.1.116",
+        "packets": 484,
+        "attempts": 0,
+        "latency": 40
+    },
+    {
+        "timestamp": "2025-04-03 08:37:02",
+        "ip_source": "192.168.1.30",
+        "ip_dest": "192.168.1.47",
+        "packets": 1112,
+        "attempts": 2,
+        "latency": 15
+    },
+    {
+        "timestamp": "2025-04-03 08:37:03",
+        "ip_source": "192.168.1.30",
+        "ip_dest": "192.168.1.90",
+        "packets": 1810,
+        "attempts": 9,
+        "latency": 79
+    },
+    {
+        "timestamp": "2025-04-03 08:37:04",
+        "ip_source": "192.168.1.10",
+        "ip_dest": "192.168.1.120",
+        "packets": 1625,
+        "attempts": 5,
+        "latency": 71
+    },
+    {
+        "timestamp": "2025-04-03 08:37:05",
+        "ip_source": "192.168.1.10",
+        "ip_dest": "192.168.1.226",
+        "packets": 828,
+        "attempts": 3,
+        "latency": 73
+    },
+    {
+        "timestamp": "2025-04-03 08:37:06",
+        "ip_source": "192.168.1.10",
+        "ip_dest": "192.168.1.29",
+        "packets": 271,
+        "attempts": 11,
+        "latency": 14
+    },
+    {
+        "timestamp": "2025-04-03 08:37:07",
+        "ip_source": "192.168.1.30",
+        "ip_dest": "192.168.1.181",
+        "packets": 1455,
+        "attempts": 13,
+        "latency": 69
+    },
+    {
+        "timestamp": "2025-04-03 08:37:08",
+        "ip_source": "192.168.1.40",
+        "ip_dest": "192.168.1.116",
+        "packets": 1051,
+        "attempts": 6,
+        "latency": 19
+    },
+    {
+        "timestamp": "2025-04-03 08:37:09",
+        "ip_source": "192.168.1.10",
+        "ip_dest": "192.168.1.143",
+        "packets": 878,
+        "attempts": 9,
+        "latency": 62
+    },
+    {
+        "timestamp": "2025-04-03 08:37:10",
+        "ip_source": "192.168.1.40",
+        "ip_dest": "192.168.1.178",
+        "packets": 848,
+        "attempts": 6,
+        "latency": 36
+    },
+    {
+        "timestamp": "2025-04-03 08:37:11",
+        "ip_source": "192.168.1.20",
+        "ip_dest": "192.168.1.7",
+        "packets": 665,
+        "attempts": 14,
+        "latency": 68
+    },
+    {
+        "timestamp": "2025-04-03 08:37:12",
+        "ip_source": "192.168.1.30",
+        "ip_dest": "192.168.1.82",
+        "packets": 1098,
+        "attempts": 5,
+        "latency": 24
+    },
+    {
+        "timestamp": "2025-04-03 08:37:13",
+        "ip_source": "192.168.1.10",
+        "ip_dest": "192.168.1.149",
+        "packets": 817,
+        "attempts": 0,
+        "latency": 87
+    },
+    {
+        "timestamp": "2025-04-03 08:37:14",
+        "ip_source": "192.168.1.20",
+        "ip_dest": "192.168.1.195",
+        "packets": 1656,
+        "attempts": 3,
+        "latency": 76
+    },
+    {
+        "timestamp": "2025-04-03 08:37:15",
+        "ip_source": "192.168.1.40",
+        "ip_dest": "192.168.1.91",
+        "packets": 1262,
+        "attempts": 1,
+        "latency": 18
+    },
+    {
+        "timestamp": "2025-04-03 08:37:16",
+        "ip_source": "192.168.1.20",
+        "ip_dest": "192.168.1.17",
+        "packets": 1804,
+        "attempts": 9,
+        "latency": 78
+    },
+    {
+        "timestamp": "2025-04-03 08:37:17",
+        "ip_source": "192.168.1.30",
+        "ip_dest": "192.168.1.8",
+        "packets": 709,
+        "attempts": 9,
+        "latency": 19
+    },
+    {
+        "timestamp": "2025-04-03 08:37:18",
+        "ip_source": "192.168.1.30",
+        "ip_dest": "192.168.1.168",
+        "packets": 419,
+        "attempts": 0,
+        "latency": 53
+    },
+    {
+        "timestamp": "2025-04-03 08:37:19",
+        "ip_source": "192.168.1.30",
+        "ip_dest": "192.168.1.242",
+        "packets": 1483,
+        "attempts": 4,
+        "latency": 23
+    },
+    {
+        "timestamp": "2025-04-03 08:37:20",
+        "ip_source": "192.168.1.20",
+        "ip_dest": "192.168.1.149",
+        "packets": 1330,
+        "attempts": 10,
+        "latency": 67
+    },
+    {
+        "timestamp": "2025-04-03 08:37:21",
+        "ip_source": "192.168.1.40",
+        "ip_dest": "192.168.1.10",
+        "packets": 1787,
+        "attempts": 10,
+        "latency": 43
+    },
+    {
+        "timestamp": "2025-04-03 08:37:22",
+        "ip_source": "192.168.1.10",
+        "ip_dest": "192.168.1.180",
+        "packets": 787,
+        "attempts": 14,
+        "latency": 32
+    },
+    {
+        "timestamp": "2025-04-03 08:37:23",
+        "ip_source": "192.168.1.40",
+        "ip_dest": "192.168.1.17",
+        "packets": 1414,
+        "attempts": 2,
+        "latency": 96
+    },
+    {
+        "timestamp": "2025-04-03 08:37:24",
+        "ip_source": "192.168.1.30",
+        "ip_dest": "192.168.1.46",
+        "packets": 1969,
+        "attempts": 1,
+        "latency": 54
+    },
+    {
+        "timestamp": "2025-04-03 08:37:25",
+        "ip_source": "192.168.1.20",
+        "ip_dest": "192.168.1.172",
+        "packets": 863,
+        "attempts": 4,
+        "latency": 31
+    },
+    {
+        "timestamp": "2025-04-03 08:37:26",
+        "ip_source": "192.168.1.20",
+        "ip_dest": "192.168.1.56",
+        "packets": 1798,
+        "attempts": 7,
+        "latency": 18
+    },
+    {
+        "timestamp": "2025-04-03 08:37:27",
+        "ip_source": "192.168.1.10",
+        "ip_dest": "192.168.1.88",
+        "packets": 1048,
+        "attempts": 9,
+        "latency": 95
+    },
+    {
+        "timestamp": "2025-04-03 08:37:28",
+        "ip_source": "192.168.1.30",
+        "ip_dest": "192.168.1.159",
+        "packets": 1574,
+        "attempts": 5,
+        "latency": 55
+    },
+    {
+        "timestamp": "2025-04-03 08:37:29",
+        "ip_source": "192.168.1.40",
+        "ip_dest": "192.168.1.88",
+        "packets": 1558,
+        "attempts": 10,
+        "latency": 39
+    },
+    {
+        "timestamp": "2025-04-03 08:37:30",
+        "ip_source": "192.168.1.20",
+        "ip_dest": "192.168.1.175",
+        "packets": 728,
+        "attempts": 9,
+        "latency": 23
+    },
+    {
+        "timestamp": "2025-04-03 08:37:31",
+        "ip_source": "192.168.1.30",
+        "ip_dest": "192.168.1.84",
+        "packets": 1536,
+        "attempts": 10,
+        "latency": 94
+    },
+    {
+        "timestamp": "2025-04-03 08:37:32",
+        "ip_source": "192.168.1.30",
+        "ip_dest": "192.168.1.104",
+        "packets": 1151,
+        "attempts": 6,
+        "latency": 74
+    },
+    {
+        "timestamp": "2025-04-03 08:37:33",
+        "ip_source": "192.168.1.10",
+        "ip_dest": "192.168.1.246",
+        "packets": 1080,
+        "attempts": 9,
+        "latency": 66
+    },
+    {
+        "timestamp": "2025-04-03 08:37:34",
+        "ip_source": "192.168.1.20",
+        "ip_dest": "192.168.1.169",
+        "packets": 498,
+        "attempts": 13,
+        "latency": 25
+    },
+    {
+        "timestamp": "2025-04-03 08:37:35",
+        "ip_source": "192.168.1.10",
+        "ip_dest": "192.168.1.206",
+        "packets": 673,
+        "attempts": 5,
+        "latency": 34
+    },
+    {
+        "timestamp": "2025-04-03 08:37:36",
+        "ip_source": "192.168.1.30",
+        "ip_dest": "192.168.1.185",
+        "packets": 778,
+        "attempts": 1,
+        "latency": 54
+    },
+    {
+        "timestamp": "2025-04-03 08:37:37",
+        "ip_source": "192.168.1.10",
+        "ip_dest": "192.168.1.240",
+        "packets": 1743,
+        "attempts": 10,
+        "latency": 73
+    },
+    {
+        "timestamp": "2025-04-03 08:37:38",
+        "ip_source": "192.168.1.30",
+        "ip_dest": "192.168.1.76",
+        "packets": 1873,
+        "attempts": 2,
+        "latency": 91
+    },
+    {
+        "timestamp": "2025-04-03 08:37:39",
+        "ip_source": "192.168.1.20",
+        "ip_dest": "192.168.1.169",
+        "packets": 138,
+        "attempts": 6,
+        "latency": 64
+    },
+    {
+        "timestamp": "2025-04-03 08:37:40",
+        "ip_source": "192.168.1.20",
+        "ip_dest": "192.168.1.126",
+        "packets": 1433,
+        "attempts": 3,
+        "latency": 44
+    },
+    {
+        "timestamp": "2025-04-03 08:37:41",
+        "ip_source": "192.168.1.40",
+        "ip_dest": "192.168.1.63",
+        "packets": 544,
+        "attempts": 13,
+        "latency": 54
+    },
+    {
+        "timestamp": "2025-04-03 08:37:42",
+        "ip_source": "192.168.1.40",
+        "ip_dest": "192.168.1.251",
+        "packets": 797,
+        "attempts": 1,
+        "latency": 84
+    },
+    {
+        "timestamp": "2025-04-03 08:37:43",
+        "ip_source": "192.168.1.10",
+        "ip_dest": "192.168.1.231",
+        "packets": 431,
+        "attempts": 5,
+        "latency": 60
+    },
+    {
+        "timestamp": "2025-04-03 08:37:44",
+        "ip_source": "192.168.1.20",
+        "ip_dest": "192.168.1.74",
+        "packets": 503,
+        "attempts": 14,
+        "latency": 77
+    },
+    {
+        "timestamp": "2025-04-03 08:37:45",
+        "ip_source": "192.168.1.30",
+        "ip_dest": "192.168.1.178",
+        "packets": 624,
+        "attempts": 13,
+        "latency": 78
+    },
+    {
+        "timestamp": "2025-04-03 08:37:46",
+        "ip_source": "192.168.1.10",
+        "ip_dest": "192.168.1.41",
+        "packets": 375,
+        "attempts": 0,
+        "latency": 18
+    },
+    {
+        "timestamp": "2025-04-03 08:37:47",
+        "ip_source": "192.168.1.30",
+        "ip_dest": "192.168.1.47",
+        "packets": 1096,
+        "attempts": 13,
+        "latency": 51
+    },
+    {
+        "timestamp": "2025-04-03 08:37:48",
+        "ip_source": "192.168.1.20",
+        "ip_dest": "192.168.1.22",
+        "packets": 740,
+        "attempts": 5,
+        "latency": 32
+    },
+    {
+        "timestamp": "2025-04-03 08:37:49",
+        "ip_source": "192.168.1.20",
+        "ip_dest": "192.168.1.97",
+        "packets": 80,
+        "attempts": 10,
+        "latency": 90
+    },
+    {
+        "timestamp": "2025-04-03 08:37:50",
+        "ip_source": "192.168.1.20",
+        "ip_dest": "192.168.1.74",
+        "packets": 1309,
+        "attempts": 6,
+        "latency": 84
+    },
+    {
+        "timestamp": "2025-04-03 08:37:51",
+        "ip_source": "192.168.1.20",
+        "ip_dest": "192.168.1.249",
+        "packets": 945,
+        "attempts": 14,
+        "latency": 60
+    },
+    {
+        "timestamp": "2025-04-03 08:37:52",
+        "ip_source": "192.168.1.40",
+        "ip_dest": "192.168.1.199",
+        "packets": 1922,
+        "attempts": 3,
+        "latency": 12
+    },
+    {
+        "timestamp": "2025-04-03 08:37:53",
+        "ip_source": "192.168.1.30",
+        "ip_dest": "192.168.1.122",
+        "packets": 545,
+        "attempts": 3,
+        "latency": 90
+    },
+    {
+        "timestamp": "2025-04-03 08:37:54",
+        "ip_source": "192.168.1.20",
+        "ip_dest": "192.168.1.70",
+        "packets": 1390,
+        "attempts": 9,
+        "latency": 81
+    },
+    {
+        "timestamp": "2025-04-03 08:37:55",
+        "ip_source": "192.168.1.20",
+        "ip_dest": "192.168.1.116",
+        "packets": 1099,
+        "attempts": 2,
+        "latency": 14
+    },
+    {
+        "timestamp": "2025-04-03 08:37:56",
+        "ip_source": "192.168.1.20",
+        "ip_dest": "192.168.1.48",
+        "packets": 657,
+        "attempts": 8,
+        "latency": 46
+    },
+    {
+        "timestamp": "2025-04-03 08:37:57",
+        "ip_source": "192.168.1.10",
+        "ip_dest": "192.168.1.9",
+        "packets": 1512,
+        "attempts": 0,
+        "latency": 48
+    },
+    {
+        "timestamp": "2025-04-03 08:37:58",
+        "ip_source": "192.168.1.20",
+        "ip_dest": "192.168.1.31",
+        "packets": 609,
+        "attempts": 5,
+        "latency": 64
+    },
+    {
+        "timestamp": "2025-04-03 08:37:59",
+        "ip_source": "192.168.1.10",
+        "ip_dest": "192.168.1.180",
+        "packets": 1554,
+        "attempts": 13,
+        "latency": 78
+    },
+    {
+        "timestamp": "2025-04-03 08:38:00",
+        "ip_source": "192.168.1.30",
+        "ip_dest": "192.168.1.156",
+        "packets": 1571,
+        "attempts": 7,
+        "latency": 25
+    },
+    {
+        "timestamp": "2025-04-03 08:38:01",
+        "ip_source": "192.168.1.20",
+        "ip_dest": "192.168.1.202",
+        "packets": 202,
+        "attempts": 11,
+        "latency": 42
+    },
+    {
+        "timestamp": "2025-04-03 08:38:02",
+        "ip_source": "192.168.1.30",
+        "ip_dest": "192.168.1.170",
+        "packets": 99,
+        "attempts": 8,
+        "latency": 28
+    },
+    {
+        "timestamp": "2025-04-03 08:38:03",
+        "ip_source": "192.168.1.30",
+        "ip_dest": "192.168.1.162",
+        "packets": 1649,
+        "attempts": 4,
+        "latency": 71
+    },
+    {
+        "timestamp": "2025-04-03 08:38:04",
+        "ip_source": "192.168.1.10",
+        "ip_dest": "192.168.1.26",
+        "packets": 633,
+        "attempts": 6,
+        "latency": 52
+    }
+]
